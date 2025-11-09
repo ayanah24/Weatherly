@@ -1,0 +1,7 @@
+.cardcontainer {
+    display: flex;
+    justify-content: center; /* This centers the items horizontally */
+    align-items: center; /* This centers the items vertically */
+    gap: 20px;
+    margin-top: 20px;
+}
