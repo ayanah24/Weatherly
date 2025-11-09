@@ -1,12 +1,25 @@
-# React + Vite
+# Weatherly ☀️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Weatherly** is a sleek, responsive React application built with Vite and Material-UI that displays real‐time weather information for any city. Users can search for a city and see current temperature, humidity, pressure, wind speed, and descriptive weather conditions—all in an attractive card layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧰 Tech Stack
 
-## Expanding the ESLint configuration
+- React (function components, hooks)  
+- Vite for fast bundling & development  
+- Material-UI (MUI) for UI components and styling  
+- OpenWeatherMap API for real‐time weather data  
+- CSS modules / styles for layout and theming  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+- Search for any city by name  
+- Displays: temperature, min/max temp, feels like, humidity, pressure, wind speed, description  
+- Dynamic background or visuals based on weather conditions (optional enhancement)  
+- Light and clean UI with centred Card layout  
+- Easy to extend and style  
+
+---
